@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Primos Circulares</string>
+    <string name="action_about">Acerca de</string>
+    <string name="insert_number">Ingrese un número para verificar si es un número primo circular</string>
+    <string name="calc_prime_button">Verificar</string>
+    <string name="not_prime_number">El número ingresado no es primo circular</string>
+    <string name="is_prime_number">El número ingresado es primo circular</string>
+    <string name="null_number">Ingrese un número mayor o igual que cero</string>
+    <string name="about_text"><![CDATA[<h2>Primos Circulares</h2><p>Aplicación para verificar si un número ingresado es un número primo circular.</p> <p>El número 197 es primo circular dado que todas sus rotaciones (197, 971, 719) son también números primos.</p> <p>Versión 1.0 - 2015</p> <p>Desarrollado por:<br />Federigi Pablo Andrés</p>]]></string>
+    <string name="title_activity_about">Acerca de</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

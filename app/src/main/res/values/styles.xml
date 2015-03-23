@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="verify_result">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="is_prime_number" parent="verify_result">
+        <item name="android:textColor">#ff2fad42</item>
+    </style>
+
+    <style name="not_prime_number" parent="verify_result">
+        <item name="android:textColor">#ffad2621</item>
+    </style>
+
+</resources>
